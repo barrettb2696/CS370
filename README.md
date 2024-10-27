@@ -1,1 +1,7 @@
 # CS370
+
+In this project, I developed an intelligent pirate agent for a treasure hunt game, focusing on applying reinforcement learning and neural networks to solve a real-world pathfinding problem. I was provided with starter code that set up the game environment and defined the parameters for the pirate’s movements. From there, I implemented a deep Q-learning algorithm, designing the agent to learn optimal paths to reach the treasure efficiently.
+
+Computer scientists play a critical role in developing innovative solutions to complex problems, often using algorithms and data-driven techniques to create efficient and reliable software. This project allowed me to approach problem-solving from a computer science perspective by identifying the agent’s goals, constraints, and the optimal strategies required to reach the treasure. Breaking down the problem, I used iterative testing and adjusted the agent’s learning parameters, honing my skills in both systematic thinking and adaptability.
+
+As a computer scientist, I have ethical responsibilities to both the end users and the organization. Ensuring that intelligent agents operate within ethical boundaries—such as maintaining fairness, accuracy, and transparency in decision-making—is essential. Additionally, maintaining data privacy and prioritizing user experience in design are also crucial to delivering solutions that build trust and serve the users’ best interests.
